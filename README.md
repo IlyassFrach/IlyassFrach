@@ -1,12 +1,13 @@
+🇬🇧 ENGLISH:
 - 👋 Hi, I’m @IlyassFrach
-- 👀 I’m interested in mobile game developement and boxing.
-- 🌱 I’m currently learning to create video games on unity engine.
-- 💞️ I’m looking to collaborate on psychological ways to make users addicted to my video games. Contact me for more details.
-- 📫 How to reach me : frachilyass@gmail.com
+- 💞️ I build clean, responsive HTML/CSS websites for creators, small businesses, and personal portfolios.
+- 📫 How to reach me : ilyassfrach@gmail.com or ilyassfrach on discord.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm french, so you can contact me in french if you want !
+- ⚡ Fun fact: I’m French! Feel free to contact me in French if you prefer.
 
-<!---
-IlyassFrach/IlyassFrach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🇫🇷 FRANÇAIS:
+- 👋 Salut, je suis @IlyassFrach
+- 💞️ Je crée des sites web HTML/CSS propres et responsive pour les créateurs, les petites entreprises et les portfolios personnels.
+- 📫 Pour me contacter : ilyassfrach@gmail.com ou sur Discord sous le nom ilyassfrach.
+- 😄 Pronom : il/lui
+- ⚡ Fun fact : Je suis français, donc n’hésitez pas à me contacter en français si vous préférez !
